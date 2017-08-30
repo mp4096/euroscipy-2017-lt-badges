@@ -1,0 +1,2 @@
+cmd: cd slides && indentex -v . && pdflatex --interaction batchmode _deck.tex
+name: Compile
